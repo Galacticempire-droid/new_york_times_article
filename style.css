@@ -1,0 +1,1091 @@
+body {
+    overflow-x: hidden;
+}
+
+
+#maintitle {
+    font-family: "nyt-cheltenham",georgia,'times new roman',times,serif;
+    margin-top: 75px;
+}
+
+.smoking {
+    margin-left: -270px;
+}
+
+.lp {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+}
+
+#style {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit
+}
+
+.topbar {
+    position: fixed;
+    width: 160%;
+    top: 0;
+    left: -110;
+    z-index: 200;
+    background-color: white;
+    border-bottom: none;
+    transition: all 0.2s ease-in-out;
+    opacity: 1;
+    visibility: visible;
+    animation-duration: 300ms;
+    animation-delay: 0ms;
+    animation-timing-function: ease-out;
+    margin-left: 200px;
+}
+
+.kl {
+    position: relative;
+    border-bottom: 1px solid #e2e2e2 ;
+    margin-left: -165px;
+}
+
+.po {
+    margin: 0 auto;
+    max-width: 1605px;
+    background-color: transparent;
+    border-bottom: 0;
+    padding: 4px 15px 2px;
+    height: 36px;
+    position: relative;
+    margin-left: 100px;
+}
+
+.uy {
+    display: flex;
+    justify-content: space-around;
+    left: 10px;
+    position: absolute;
+    margin-left: 500px;
+}
+
+section {
+    display: block;
+    border: 0;
+    font: inherit;
+}
+
+
+
+.spaceandcosmos {
+    font-size: 14.25px;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.7px;
+    margin-left: -400px;
+    line-height: 19px;
+    margin-top: 6px;
+}
+
+div.spaceandcosmos:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.posit {
+    margin-right: 180px;
+}
+
+.logo {
+    width: 250px;
+    height: 50px;
+    margin-top: -7px;
+    margin-right: 155px;
+    cursor: pointer;
+}
+
+.position {
+    margin-left: 50px;
+}
+
+.now {
+    padding: 11px 12px 8px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    transition: all 0.6s ease 0s;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: rgb(86, 123, 149);
+    border: 1px solid rgb(50, 104, 145);
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+
+button.now:hover {
+    opacity: 0.8;
+}
+
+.login {
+    padding: 11px 12px 8px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    transition: all 0.6s ease 0s;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: rgb(86, 123, 149);
+    border: 1px solid rgb(50, 104, 145);
+    color: rgb(255, 255, 255);
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    margin-right: -195px;
+    margin-bottom: 20px;
+}
+
+button.login:hover {
+    opacity: 0.8;
+}
+
+.hide {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.box {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+
+.morecontent {
+    height: 55px;
+    font-size: 0.7em;
+    position: fixed;
+    bottom: 0;
+    left: -2px;
+    border-top: 1px solid black;
+    background-color: white;
+    width:100%;
+    display: flex;
+    margin: auto;
+    padding: 0;
+    z-index: 200;
+    font-family: "nyt-franklin",helvetica,arial,sans-serif;
+}
+
+.text {
+    font-family: "nyt-franklin",helvetica,arial,sans-serif;
+    font-size: 0.9em;
+    margin: auto;
+    margin-left: 450px;
+    cursor: pointer;
+    letter-spacing: 0px;
+}
+
+.nyt {
+    background-color: white;
+    width:100%;
+    top: 0px;
+    left: 0px;
+    z-index: 200;
+    background-color: white;
+    border-bottom: none;
+}
+
+#header {
+    display: block;
+}
+
+.head {
+    position: relative;
+    border-bottom: 1px solid #e2e2e2; 
+}
+
+#section {
+    display: block;
+}
+
+.styling {
+    margin: 0 auto;
+    max-width: 1605px;
+    background: transparent;
+    border-bottom: 0;
+    padding: 4px 15px 2px;
+    height: 36px;
+    position: relative;
+}
+
+#style {
+    margin: 0;
+    padding: 0;
+    border:0;
+    font: inherit
+}
+
+.style {
+    display: flex;
+    justify-content: space-around;
+    left: 10px;
+    position: absolute;
+}
+
+.space {
+    display: block;
+    position: absolute;
+    left: 105px;
+    line-height: 19px;
+    top: 10px;
+}
+
+#space {
+    margin: 0;
+    padding: 0;
+    border:0;
+    font: inherit;
+}
+
+.spacecosmos {
+    font-size: 14.25px;
+    font-family: helvetica,arial,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    line-height: 19px;
+}
+
+
+
+.center {
+    text-align: center;
+}
+
+H1 {
+    font-family: sans-serif;
+    text-align: center
+}
+
+.physicist {
+    width: 950px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+
+.div {
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 15px;
+    word-wrap: break-word;
+    width: 730px;
+    font-family: "Fira Sans", sans-serif;
+}
+
+.credit {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.8em;
+    line-height: 18px;
+    font-weight: 500;
+    color: grey;
+    width: 210px;
+}
+
+.dennis {
+    font-size: 14px;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 350;
+    cursor: pointer;
+}
+
+a.lo:link {
+    color:black;
+    text-decoration:none
+}
+
+a.lo:visited {
+    color:black;
+    text-decoration:none
+}
+
+a.lo:hover {
+    text-decoration: underline;
+}
+
+.date {
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: "Fira Sans", sans-serif;
+    padding-bottom: 15px;
+}
+
+.editorspicks {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    margin-left: 700px;
+    margin-top: -120px;
+    padding-bottom: 80px;
+}
+
+#editorspicks {
+    margin-left: 700px;
+    margin-top: -70px;
+    width: 190px;
+    border-top: 1px solid lightgrey;
+}
+
+
+.secondpara {
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: 0;
+    width: 600px;
+    font-size: 1.3em;
+    font-family: "Fira Sans", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.border {
+    padding-top: 10px;
+    border-top: 1px solid lightgrey;
+    margin-top: 30px;
+    margin-left: 250px;
+    width: 75px;
+}
+
+.unlock {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+.secondborder {
+    padding-top: 10px;
+    border-top: 1px solid lightgrey;
+    margin-top: 20px;
+    margin-left: 250px;
+    width: 75px;
+}
+
+.create {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.7em;
+    font-weight: 700;
+    margin-left: 195px;
+    margin-top: 0px;
+    color:rgb(50, 104, 145);
+    cursor: pointer;
+}
+
+.theory {
+    width:700px;
+    height:400px;
+    background-color: white;
+}
+
+.qw {
+    margin-top: 60px;
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: 0;
+    width: 600px;
+    font: 1.2em Georgia, serif;
+}
+
+iframe {
+    margin-left: -38px;
+    width: 570px;
+    height: 300px;
+    border:none;
+}
+
+.stanford {
+    font-size: 0.7em;
+    margin-top: 15px;
+    margin-left: -40px;
+    color: grey;
+    font-weight: 500;
+    font-family: nyt-imperial,georgia,'times new roman',times,serif; 
+}
+
+.credits {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.8em;
+    line-height: 18px;
+    font-weight: 500;
+    color: grey;
+    word-wrap: break-word;
+    width: 200px;
+}
+
+.th {
+    margin-left: -140px;
+    font-family: "Fira Sans", serif;
+
+}
+
+#theory {
+    margin-top:-26px;
+    margin-left: -138px;
+    font-size: 0.8em;
+}
+
+.universe {
+    font-size: 13px;
+    width: 200px;
+    overflow-wrap: break-word; 
+    margin-left: -139px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 16px;
+    font-weight: 400;
+}
+
+
+.align {
+    margin-left: -140px;
+    width: 200px;
+}
+
+.time {
+    margin-left: 110px;
+    margin-top: -270px;
+    width: 200px;
+}
+
+#time { 
+    font-size: 13px;
+    width: 200px;
+    overflow-wrap: break-word; 
+    margin-left: 105px;
+    margin-top: -152px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 16px;
+}
+
+.tel {
+    margin-top: -270px;
+    margin-left: 325px;
+    width: 250px;
+}
+
+#tel {
+    font-size: 13px;
+    width: 220px;
+    overflow-wrap: break-word; 
+    margin-left: 345px;
+    margin-top: -135px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 16px;
+}
+
+.coffee {
+    width: 250px;
+    margin-left: 595px; 
+    margin-top: -250px;
+}
+
+#coffee {
+    font-size: 13px;
+    width: 240px;
+    margin-top: -120px;
+    margin-left: 600px;
+    overflow-wrap: break-word;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 16px;
+}
+
+.clock {
+    width: 230px;
+    margin-top: 21px;
+    margin-left: -149px;
+}
+
+#clock {
+    font-size: 13px;
+    width: 240px;
+    overflow-wrap: break-word;
+    margin-left: -149px;
+    margin-top: 5px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 18px;
+}
+
+.inflation {
+    width: 200px;
+    margin-top: -297px;
+    margin-left: 110px;
+}
+
+#inflation {
+    font-size: 13px;
+    width: 230px;
+    overflow-wrap: break-word;
+    margin-left: 100px;
+    margin-top: -132px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 18px;
+}
+
+.fluctuation {
+    width: 210px;
+    margin-top: -310px;
+    margin-left: 350px;
+}
+
+#fluctuation {
+    font-size: 13px;
+    width: 240px;
+    overflow-wrap: break-word;
+    margin-left: 350px;
+    margin-top: -168px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 16px;
+}
+
+.expansion {
+    width: 210px;
+    margin-top: -265px;
+    margin-left: 615px;
+}
+
+#expansion {
+    font-size: 13px;
+    width: 240px;
+    overflow-wrap: break-word;
+    margin-top: -135px;
+    margin-left: 600px;
+    font: 0.6em "Fira Sans", sans-serif;
+    line-height: 16px;
+}
+
+.line {
+    border-bottom: 1px solid black;
+    margin-top: 320px;
+    margin-left: 215px;
+    width: 60px;
+}
+
+.illustrators {
+    margin-left: 215px;
+    margin-top: 25px;
+    font-size: 0.8em;
+    word-wrap: break-word;
+    width: 730px;
+    font-family: "Fira Sans", sans-serif;
+}
+
+div {
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: 0;
+    width: 600px;
+    font-size: 1.2em;
+    font-family: Georgia, serif;
+}
+
+.ice {
+    width: 110%;
+    margin: 20px 70px 0px -39px;
+}
+
+.photographer {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 0.8em;
+    line-height: 18px;
+    font-weight: 500;
+    color: grey;
+    word-wrap: break-word;
+    width: 200px;
+}
+
+.cap {
+    width: 545px;
+    margin-left: -40px;
+    font-size: 15px;
+    margin-top: 10px;
+    color: grey;
+    font-family: Georgia, serif;
+}
+
+.version {
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: 0;
+    width: 600px;
+    font: 0.8em "Times New Roman";
+    color: grey;
+}
+
+a.order:link {
+    color: grey;
+}
+
+a.order:visited {
+    color:black;
+}
+
+a.order:hover {
+    text-decoration: none;
+}
+
+a.today:link {
+    color: grey;
+}
+
+a.today:visited {
+    color:black
+}
+
+a.today:hover {
+    text-decoration: none;
+}
+
+a.subscribe:link {
+    color: grey;
+}
+
+a.subscribe:visited {
+    color:black;
+}
+
+a.subscribe:hover {
+    text-decoration: none;
+}
+
+.comments {
+    background-color: rgb(86, 123, 149);
+    margin-top:20px;
+    margin-left: 366px;
+    padding: 10px 100px;
+    color:white;
+    text-align: center;
+    border:none;
+    border-radius:2px;
+    font-family: "Fira Sans", sans-serif;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+
+.more {
+    width:870px;
+    margin-top: 80px;
+    margin-left: 40px;
+    background-color: teal;
+    border-top: 1px solid black;
+}
+
+.news {
+    margin-top:20px;
+    font-family: "Fira Sans", sans-serif;
+    font-size: 1em;
+    margin-left: 40px;
+}
+
+.rocket {
+    width:300px;
+}
+
+.additional {
+    flex-flow: nowrap;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.ruler {
+    border: 1px solid lightgrey;
+    width: 1050px;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.secondruler {
+    border: 1px solid lightgrey;
+    width: 1050px;
+    margin-left: 90px;
+    margin-top: 1px;    
+}
+
+.image {
+    width: 200px;
+    margin-left: 75;
+    cursor: pointer;
+}
+
+.tyu {
+    margin: 18px 0px 0px 0px;
+}
+
+.goto {
+    color: rgb(86, 123, 149);
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 11px;
+    text-decoration: none;
+    margin-left: 830px;
+}
+
+.goto:hover {
+    cursor: pointer;
+}
+
+nav {
+    display: block;
+}
+
+.kop {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 3% 9px;
+}
+
+.sx {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 290px;
+    min-width: 1010px
+}
+
+#section {
+    display: block;
+}
+
+.information {
+    margin-top: -15px;
+    margin-left: -308px;
+    flex: 2 1 0%;
+    width: 100px;
+}
+
+
+.morenews {
+    margin-top: -1px;
+    font-size: 0.5em;
+    font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif; 
+    margin-left: 1px;
+    margin-top: 10px;
+    line-height: 18px;
+}
+
+li {
+    font-size: 0.5em;
+    line-height:25px;
+}
+
+.c {
+    text-decoration: none;
+    line-height: 22px;
+}
+
+.c:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+#opinion {
+    display: block;
+}
+
+.opinions {
+    flex: 2 1 0%;
+}
+
+.ro {
+    margin-top: -14px;
+    font-size: 0.5em;
+    font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif; 
+    margin-left: 1px 
+}
+
+#arts {
+    display: block;
+}
+
+.arts {
+    flex: 2 1 0%;
+}
+
+.op {
+    margin-top: -14px;
+    font-size: 0.5em;
+    font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif; 
+    margin-left: 1px 
+
+}
+
+#living {
+    display: block;
+}
+
+.living {
+   flex: 2 1 0%;
+}
+
+.lifestyle {
+    margin-top: -14px;
+    font-size: 0.5em;
+    font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif; 
+    margin-left: 1px 
+}
+
+#reading {
+    display: block;
+}
+
+.reading {
+    flex: 1 1 0%;
+}
+
+.reader {
+    margin-top: -14px;
+    font-size: 0.5em;
+    font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif; 
+    margin-left: 1px;
+    width: 200px;
+}
+
+
+.vertical {
+    border-left: 1px solid lightgrey;
+    margin-left: 20px;
+    margin-right: 260px;
+    width: 10px;
+}
+
+
+.mret {
+    font-size: 0.4em;
+    font-weight: 700;
+    font-family: nyt-franklin, helvetica, arial, sans-serif; 
+}
+
+.homedelivery {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    width: 150px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.digital {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    width: 190px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.games {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    width: 150px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.cooking {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    width: 150px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.linearity {
+    margin-top:15px;
+}
+
+.email {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.corporate {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.education {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.linear {
+    width: 170px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    border-top: 1px solid lightgrey;
+}
+
+.mobile {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.replica {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.espanol {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.foreign {
+    font-size: 11px;
+    font-weight: 500;
+    display: inline-block;
+    width: 150px;
+}
+
+.star {
+    padding: 0 3% 45px;
+    margin: 0 auto;
+    max-width: 1200px;
+    font-size: 11px;
+    text-align: center;
+}
+
+footer {
+    display: block;
+}
+
+.nv {
+    border-top: 1px solid #ebebeb;
+    padding-top: 9px;
+}
+
+.asd {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.wr {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+.tr {
+    color: #666;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    padding: 10px 0;
+    text-decoration: none;
+    white-space: nowrap;    
+}
+
+.tr:hover {
+    text-decoration: underline;
+}
+
+.bo {
+    display: inline-block;
+    list-style: none;
+    line-height: 8px;
+    margin: 0 0 35px;
+    padding: 0;
+}
+
+.lk {
+    border-left: none;
+    display: inline-block;
+    line-height: 20px;
+    padding: 0 10px;
+}
+
+.m {
+    display: inline-block;
+    line-height: 20px;
+    padding: 0 10px;
+}
+
+
+.it {
+    color: #666;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    padding: 10px 0;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 11px;
+}
+
+.it:hover {
+    text-decoration: underline;
+}
+
+.kopl {
+    color: #666;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    padding: 10px 0;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 11px;
+}
+
+.kopl:hover {
+    text-decoration: underline;
+}
+
+.a {
+    display: inline-block;
+    line-height: 20px;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+.hjkl {
+    color: #666;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    padding: 10px 0;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 11px;
+}
+
+.hjkl:hover {
+    text-decoration: underline;
+}
